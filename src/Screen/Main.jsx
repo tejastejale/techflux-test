@@ -1,8 +1,8 @@
 import React from "react";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa6";
 import image from "../assets/image.jpg";
-import Card from "./Card";
-import Bar from "./Bar";
+import Card from "../Components/Card";
+import Bar from "../Components/Bar";
 
 function Main() {
   const data = [
